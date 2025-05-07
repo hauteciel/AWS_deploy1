@@ -19,7 +19,7 @@ public class HomeController {
             log.warn("💛/aws/v1 호출. warning로그 ");
         }
 
-        return "<h1>AWS 배포 v1</h1>";
+        return "<h1>AWS 배포 v1.1</h1>";
     }
 }
 
